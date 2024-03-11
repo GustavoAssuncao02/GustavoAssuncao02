@@ -1,9 +1,9 @@
 
-Hello! I'm Gustavo! <img align="center" alt="PHP" height="50" width="60" src="eu.png"><br><br>
+## Hello! I'm Gustavo! <img align="center" alt="PHP" height="50" width="60" src="eu.png"><br><br>
 🔭 Currently seeking job opportunities as a developer. Feel free to explore my projects!<br>
 🌱 I'm always learning, striving to improve a little every day!<br>
 
-Languages and Tools:
+## Languages and Tools:
 <div style="display: inline_block">
   <br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,7 +16,7 @@ Languages and Tools:
   
 </div>
 <br><br>
-Professional Experience:<br>
+## Professional Experience:<br>
 Service Of Well Control - Systems Development Analyst (June/2022 - Present)<br>
 - Responsible for maintaining electronic devices and network infrastructure, ensuring continuous system operation.<br>
 - Development and maintenance of the company's website, ensuring an updated and functional online presence.<br>
