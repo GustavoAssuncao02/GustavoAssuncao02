@@ -1,6 +1,6 @@
 
 Hello! I'm Gustavo! <img align="center" alt="PHP" height="50" width="60" src="eu.png"><br><br>
-🔭 Currently seeking job opportunities as a developer. Feel free to explore my projects!
+🔭 Currently seeking job opportunities as a developer. Feel free to explore my projects!<br>
 🌱 I'm always learning, striving to improve a little every day!<br>
 
 Languages and Tools:
