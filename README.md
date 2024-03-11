@@ -1,7 +1,6 @@
-Olá! Eu sou Gustavo! 👋
-🔭 Atualmente em busca de oportunidades de emprego como desenvolvedor. Sinta-se à vontade para explorar meus projetos!
-
-🌱 Estou sempre aprendendo, buscando melhorar um pouco a cada dia!
+Olá! Eu sou Gustavo! 👋<br>
+🔭 Atualmente em busca de oportunidades de emprego como desenvolvedor. Sinta-se à vontade para explorar meus projetos!<br>
+🌱 Estou sempre aprendendo, buscando melhorar um pouco a cada dia!<br>
 
 Linguagens e Ferramentas:
 <div style="display: inline_block">
@@ -14,6 +13,7 @@ Linguagens e Ferramentas:
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 </div>
+<br><br>
 Experiência Profissional:
 Service Of Well Control - Analista de Desenvolvimento de Sistemas (Junho/2022 - Presente)
 
