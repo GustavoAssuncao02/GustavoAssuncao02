@@ -1,4 +1,4 @@
-Olá! Eu sou Gustavo! 👋<br>
+Olá! Eu sou Gustavo! <img align="center" alt="PHP" height="50" width="50" src="eu.png"><br>
 🔭 Atualmente em busca de oportunidades de emprego como desenvolvedor. Sinta-se à vontade para explorar meus projetos!<br>
 🌱 Estou sempre aprendendo, buscando melhorar um pouco a cada dia!<br>
 
@@ -12,7 +12,7 @@ Linguagens e Ferramentas:
   <img align="center" alt="AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="eu.png">
+  
 </div>
 <br><br>
 Experiência Profissional:
