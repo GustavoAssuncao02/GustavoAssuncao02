@@ -1,4 +1,4 @@
-Olá! Eu sou Gustavo! <img align="center" alt="PHP" height="50" width="50" src="eu.png"><br>
+Olá! Eu sou Gustavo! <img align="center" alt="PHP" height="50" width="60" src="eu.png"><br>
 🔭 Atualmente em busca de oportunidades de emprego como desenvolvedor. Sinta-se à vontade para explorar meus projetos!<br>
 🌱 Estou sempre aprendendo, buscando melhorar um pouco a cada dia!<br>
 
