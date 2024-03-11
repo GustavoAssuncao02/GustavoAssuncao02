@@ -12,6 +12,7 @@ Linguagens e Ferramentas:
   <img align="center" alt="AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg](https://github.com/GustavoAssuncao02/Trabalho-de-Conclus-o-de-Curso/blob/main/eu.png?raw=true)">
 </div>
 <br><br>
 Experiência Profissional:
