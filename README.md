@@ -14,7 +14,7 @@ Linguagens e Ferramentas:
 Experiência Profissional:
 Service Of Well Control - Analista de Desenvolvimento de Sistemas (Junho/2022 - Presente)
 
-Responsável pela manutenção de dispositivos eletrônicos e infraestrutura de rede, garantindo o funcionamento contínuo dos sistemas.
+- Responsável pela manutenção de dispositivos eletrônicos e infraestrutura de rede, garantindo o funcionamento contínuo dos sistemas.
 - Desenvolvimento e manutenção do site da empresa, garantindo uma presença online atualizada e funcional.
 - Criação e manutenção do chatbot da empresa, melhorando a eficiência no atendimento ao cliente e automatizando processos.
 - Prestação de suporte técnico aos usuários, solucionando problemas de software e hardware de forma ágil e eficaz.
